@@ -1,0 +1,44 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+
+geopandas = "*"
+jupyterlab = "*"
+polars = "*"
+altair = "*"
+datashader = "*"
+bokeh = "*"
+matplotlib = "*"
+holoviews = "*"
+numpy = "*"
+numba = "==0.57.1"
+plotly = "*"
+seaborn = "*"
+folium = "*"
+hvplot = "*"
+xarray = "*"
+
+h3 = "*"
+optuna = "*"
+
+libpysal = "*"
+esda = "*"
+pysal = "*"
+contextily = "*"
+statsmodels = "*"
+
+scikit-learn = "==1.6.0"
+shap = "*"
+dtaidistance = "*"
+
+ruptures = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.10"
