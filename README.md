@@ -4,6 +4,8 @@ This repository contains code and documentation used for my Masters Thesis.
 
 ---
 
+The methodology has been converted to a Python package here: https://github.com/jeafreezy/iot-dqa
+
 ## Usage
 
 ### Open In Colab
